@@ -3,3 +3,46 @@
 .current {
   color: green;
 }
+body {
+  padding-top: 3rem;
+  background-color: #ff9090;
+}
+
+nav.navbar {
+  border-bottom: 1px solid black;
+  padding: 0 1rem;
+  a.navbar-brand {
+    position: absolute;
+  }
+  ul.navbar-nav {
+    margin: auto;
+    a {
+      font-size: 1.25rem;
+    }
+  }
+}
+
+div.main-content {
+  margin: auto;
+  width: 90%;
+  max-width: 1000px;
+  padding-top: 25px;
+  h1 {
+    text-align: center;
+    margin: 50px 0;
+  }
+  div.post {
+    position: relative;
+    padding-bottom: 30px;
+    border-top: 1px solid black;
+    padding-top: 5px;
+    h2.title {
+      text-transform: capitalize;
+    }
+    h6.date {
+      position: absolute;
+      right: 0;
+      top: 15px;
+    }
+  }
+}

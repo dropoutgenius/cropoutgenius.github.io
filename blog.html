@@ -4,11 +4,10 @@ title: Blog
 ---
 <h1>Latest Posts</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <div class="post">
+    <h2 class="title">{{ post.title }}</h2>
+    <h6 class="date">{{ post.date | date_to_string }} - {{ post.author }}</h6>
+    <p>{{ post.content }}</p>
+  </div>
+{% endfor %}
