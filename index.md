@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Sample Blog Post
 **May 07, 2019**
 
