@@ -2,12 +2,6 @@
 layout: default
 title: Blog
 ---
-<h1>Latest Posts</h1>
+<h1>Blog Posts</h1>
 
-{% for post in site.posts %}
-  <div class="post">
-    <h2 class="title">{{ post.title }}</h2>
-    <h6 class="date">{{ post.date | date_to_string }} - {{ post.author }}</h6>
-    <p>{{ post.content }}</p>
-  </div>
-{% endfor %}
+{% include blog-posts.html limit=20 %}

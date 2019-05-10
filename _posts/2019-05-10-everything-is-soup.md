@@ -2,7 +2,9 @@
 layout: post
 title:  "Everything is soup"
 author: "Tick Burgard"
-tags: Tick Burgard, austin's mom, 5643
+tags:
+  - "Jaustin's mom"
+  - "5643"
 ---
 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit](https://www.youtube.com/watch?v=zrIPLAo0_iQ). Vestibulum elementum quis elit sed auctor. In non malesuada velit. Donec consequat blandit est vel dignissim. Nunc ullamcorper vehicula dui at dictum. Nullam sed blandit ex, nec tristique lorem. Duis at tellus faucibus purus condimentum vulputate a sed nisl. Suspendisse potenti. Aenean dictum augue vitae risus blandit efficitur feugiat in lorem. Aenean volutpat at diam eget commodo. Donec pharetra faucibus odio quis malesuada. Curabitur tincidunt sodales hendrerit. Quisque non pretium odio. Pellentesque ut lacus quis erat dapibus tempor quis ac lacus. Etiam rutrum condimentum orci sit amet mattis. Aliquam pulvinar est dui, vitae elementum sem posuere ac.

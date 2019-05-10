@@ -1,0 +1,15 @@
+.current { color: green; }
+
+body { padding-top: 3rem; background-color: #ff9090; }
+
+nav.navbar { border-bottom: 1px solid black; padding: 0 1rem; }
+nav.navbar a.navbar-brand { position: absolute; }
+nav.navbar ul.navbar-nav { margin: auto; }
+nav.navbar ul.navbar-nav a { font-size: 1.25rem; }
+
+div.main-content { margin: auto; width: 90%; max-width: 1000px; padding-top: 25px; }
+div.main-content h1 { text-align: center; margin: 50px 0; }
+div.main-content div.post { position: relative; padding-bottom: 30px; border-top: 1px solid black; padding-top: 5px; }
+div.main-content div.post h2.title { text-transform: capitalize; }
+div.main-content div.post h6.date { position: absolute; right: 0; top: 15px; }
+div.main-content div.post img { max-width: 45%; padding: 5px 15px 0px 0; float: left; }
