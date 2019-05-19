@@ -12,6 +12,27 @@
 </head>
 <body>
   {% include navbar.html %}
+  <div id="sidebar-container">
+    <h2 class="title">Explore</h2>
+    <ul class="parent">
+      <li>Frequent Authors</li>
+      <ul class="child">
+        {% for author in site.authors %}
+          <li>
+            <a href="#">{{ author[0] }}<span class="item-count">({{ author[1].size }})</span></a>
+          </li>
+        {% endfor %}
+      </ul>
+      <li>Popular Tags</li>
+      <ul class="child">
+        {% for tag in site.tags %}
+          <li>
+            <a href="#">{{ tag[0] }}<span class="item-count">({{ tag[1].size }})</span></a>
+          </li>
+        {% endfor %}
+      </ul>
+    </ul>
+  </div>
   <div class="main-content">
     {{ content }}
   </div>

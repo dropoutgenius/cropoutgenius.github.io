@@ -9,7 +9,7 @@ tags:
 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit](https://www.youtube.com/watch?v=zrIPLAo0_iQ). Vestibulum elementum quis elit sed auctor. In non malesuada velit. Donec consequat blandit est vel dignissim. Nunc ullamcorper vehicula dui at dictum. Nullam sed blandit ex, nec tristique lorem. Duis at tellus faucibus purus condimentum vulputate a sed nisl. Suspendisse potenti. Aenean dictum augue vitae risus blandit efficitur feugiat in lorem. Aenean volutpat at diam eget commodo. Donec pharetra faucibus odio quis malesuada. Curabitur tincidunt sodales hendrerit. Quisque non pretium odio. Pellentesque ut lacus quis erat dapibus tempor quis ac lacus. Etiam rutrum condimentum orci sit amet mattis. Aliquam pulvinar est dui, vitae elementum sem posuere ac.
 
-![alt text](https://github.com/dropoutgenius/dropoutgenius.github.io/blob/master/assets/images/5643.jpg?raw=true)
+![alt text](https://github.com/dropoutgenius/dropoutgenius.github.io/blob/master/assets/images/5643.jpg?raw=true){: .image-left}
 
 Curabitur at mauris aliquet, vehicula enim at, lobortis eros. Phasellus sodales fringilla dolor, id lobortis erat consequat vel. Praesent quis tellus a ipsum vulputate posuere. Aliquam facilisis semper urna quis tempor. Vivamus eget odio ac nulla egestas vulputate et ut magna. Proin posuere luctus risus id congue. Sed suscipit metus quis sagittis dictum. Nullam in iaculis ante, non posuere erat. Donec enim quam, imperdiet non ligula vel, malesuada tincidunt sem. Pellentesque feugiat semper erat, vitae venenatis lectus suscipit quis.
 

@@ -1,15 +1,28 @@
 .current { color: green; }
 
-body { padding-top: 3rem; background-color: #ff9090; }
+body { padding-top: 3rem; background-color: #EDF5E1; color: #05386B; }
 
-nav.navbar { border-bottom: 1px solid black; padding: 0 1rem; }
-nav.navbar a.navbar-brand { position: absolute; }
+nav.navbar { border-bottom: 1px solid black; padding: 0 1rem; background-color: #5bdb94 !important; font-weight: 750; }
+nav.navbar a.navbar-brand { position: absolute; font-size: 2rem; color: #05386B !important; }
 nav.navbar ul.navbar-nav { margin: auto; }
 nav.navbar ul.navbar-nav a { font-size: 1.25rem; }
+nav.navbar ul.navbar-nav li.active a { color: #05386B !important; }
 
-div.main-content { margin: auto; width: 90%; max-width: 1000px; padding-top: 25px; }
+div#sidebar-container { background-color: #05386B; color: white; position: fixed; width: 20%; margin-top: 50px; margin-left: 25px; }
+div#sidebar-container .title { text-align: center; margin: 0; padding: 5px; }
+div#sidebar-container ul.parent { list-style: none; padding: 0; color: #05386c; }
+div#sidebar-container ul.parent li { padding: 10px; background-color: #5cda94; }
+div#sidebar-container ul.parent ul.child { list-style: none; padding: 0; }
+div#sidebar-container ul.parent ul.child li { background-color: #8EE4AF !important; padding-left: 25px; }
+div#sidebar-container ul.parent ul.child li a, div#sidebar-container ul.parent ul.child li a:hover { color: inherit; text-decoration: none; }
+div#sidebar-container ul.parent ul.child li a .item-count, div#sidebar-container ul.parent ul.child li a:hover .item-count { position: absolute; right: 25px; }
+div#sidebar-container ul.parent ul.child li a:hover { font-weight: 500; }
+
+div.main-content { margin-left: 25%; width: 90%; max-width: 1000px; padding-top: 25px; }
 div.main-content h1 { text-align: center; margin: 50px 0; }
 div.main-content div.post { position: relative; padding-bottom: 30px; border-top: 1px solid black; padding-top: 5px; }
 div.main-content div.post h2.title { text-transform: capitalize; }
 div.main-content div.post h6.date { position: absolute; right: 0; top: 15px; }
-div.main-content div.post img { max-width: 45%; padding: 5px 15px 0px 0; float: left; }
+div.main-content div.post img { max-width: 95%; padding-top: 5px; margin: auto; }
+div.main-content div.post img.image-left { float: left; margin: 0; max-width: 45%; padding-right: 15px; }
+div.main-content div.post img.image-right { float: right; margin: 0; max-width: 45%; padding-left: 15px; }
