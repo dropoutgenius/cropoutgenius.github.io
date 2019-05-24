@@ -11,7 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Degree-Free Living
 defaults:
 - scope:
     path: ''
@@ -19,3 +18,4 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
+description: Degree-Free Living
