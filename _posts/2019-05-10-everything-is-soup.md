@@ -1,11 +1,11 @@
 ---
 title: Everything is soup
-date: 2019-05-10 00:00:00 Z
+date: 2019-05-09 20:00:00 -04:00
 tags:
 - Jaustin's mom
 - '5643'
+author: Patrick Burgard
 layout: post
-author: Tick Burgard
 ---
 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit](https://www.youtube.com/watch?v=zrIPLAo0_iQ). Vestibulum elementum quis elit sed auctor. In non malesuada velit. Donec consequat blandit est vel dignissim. Nunc ullamcorper vehicula dui at dictum. Nullam sed blandit ex, nec tristique lorem. Duis at tellus faucibus purus condimentum vulputate a sed nisl. Suspendisse potenti. Aenean dictum augue vitae risus blandit efficitur feugiat in lorem. Aenean volutpat at diam eget commodo. Donec pharetra faucibus odio quis malesuada. Curabitur tincidunt sodales hendrerit. Quisque non pretium odio. Pellentesque ut lacus quis erat dapibus tempor quis ac lacus. Etiam rutrum condimentum orci sit amet mattis. Aliquam pulvinar est dui, vitae elementum sem posuere ac.
