@@ -27,5 +27,5 @@ div.main-content div.post img { max-width: 95%; padding-top: 5px; margin: auto; 
 div.main-content div.post img.image-left { float: left; margin: 0; max-width: 45%; padding-right: 15px; }
 div.main-content div.post img.image-right { float: right; margin: 0; max-width: 45%; padding-left: 15px; }
 
-div.footer { background: #05386c; color: white; text-align: center; padding: 40px; }
+div.footer { background: #05386c; color: white; text-align: center; padding: 40px; position: fixed; bottom: 0; right: 0; left: 0; }
 div.footer a { color: #5bdb94; }
