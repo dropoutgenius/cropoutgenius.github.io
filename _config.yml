@@ -16,13 +16,13 @@ defaults:
     path: ''
     type: authors
   values:
-    permalink: "/blog/authors/:title/"
+    permalink: "/authors/:title/"
     layout: author
 - scope:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/:title/"
     layout: post
-    author: 
+    author:
 description: Degree-Free Living

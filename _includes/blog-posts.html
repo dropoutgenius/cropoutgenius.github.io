@@ -1,7 +1,8 @@
 {% for post in site.posts limit:{{include.limit}}%}
   <div class="post">
     <h2 class="title">{{ post.title }}</h2>
-    <h6 class="date">{{ post.date | date_to_string }} - {{ post.author }}</h6>
+    {% assign author = site.authors | where: 'title', page.author | first %}
+    <h6 class="date">{{ post.date | date_to_string }} - <a href="{{ author.url }}">{{ author.title }}</a></h6>
     {% if post.tags != empty %}
       <h6 class="tags">Tags: {{ post.tags | join:", " }}</h6>
     {% endif %}
