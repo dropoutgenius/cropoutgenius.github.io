@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Home
+layout: default
 ---
+
 # Welcome to Dropout Genius!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dolor magna, hendrerit sed mi congue, lacinia dignissim magna. Suspendisse viverra eleifend auctor. Donec non hendrerit eros. Sed vulputate porttitor vehicula. Ut imperdiet augue lobortis felis vulputate, quis egestas neque fermentum. Nunc luctus vulputate tellus. Nullam tristique dapibus odio quis lacinia. Donec ac tortor sit amet justo feugiat lacinia. Duis at consequat massa. Maecenas viverra porta dui nec posuere. Cras ut turpis ac velit malesuada condimentum. Nulla semper gravida blandit.

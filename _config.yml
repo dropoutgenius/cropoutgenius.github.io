@@ -1,2 +1,11 @@
+---
 title: Dropout Genius
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Degree-Free Living
